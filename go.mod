@@ -1,3 +1,3 @@
-module github.com/Hank00AAA/testmod/v2
+module github.com/Hank00AAA/testmod
 
 go 1.13
